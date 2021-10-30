@@ -1,0 +1,4 @@
+#!/bin/sh
+chmod +x manok
+chmod +x kutot.txt
+./manok -config kutot.txt
